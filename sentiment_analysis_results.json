@@ -1,0 +1,177 @@
+[
+    {
+        "title": "IBGE trabalha em revis\u00e3o do c\u00e1lculo do PIB para refletir mudan\u00e7as na economia e no meio ambiente",
+        "environmental": true,
+        "title_length": 96,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "IBGE avalia os registros de dados sobre a biodiversidade brasileira",
+        "environmental": true,
+        "title_length": 67,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "Em 2022, 1,5 milh\u00e3o de pessoas trabalharam por meio de aplicativos de servi\u00e7os no pa\u00eds",
+        "environmental": true,
+        "title_length": 86,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "Em meio \u00e0 pandemia, n\u00famero de div\u00f3rcios cai 13,6% em 2020",
+        "environmental": true,
+        "title_length": 57,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "Atlas de Saneamento espacializa dados relacionados a meio ambiente e sa\u00fade",
+        "environmental": true,
+        "title_length": 74,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "Estadic 2020: gest\u00e3o de recursos h\u00eddricos ganha prioridade entre os \u00f3rg\u00e3os estaduais de meio ambiente",
+        "environmental": true,
+        "title_length": 101,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "Teste de Paquet\u00e1 come\u00e7a em clima de otimismo e confian\u00e7a",
+        "environmental": true,
+        "title_length": 56,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "Em meio \u00e0 pandemia, conhe\u00e7a as not\u00edcias que marcaram o ano do IBGE",
+        "environmental": true,
+        "title_length": 66,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "Em meio \u00e0 pandemia, cai n\u00famero de pessoas que estavam rigorosamente isoladas",
+        "environmental": true,
+        "title_length": 76,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "PINTEC Sustentabilidade: 40,6% das empresas inovadoras introduziram inova\u00e7\u00f5es com impactos ambientais positivos entre 2015 e 2017",
+        "environmental": true,
+        "title_length": 129,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "ODS 17: parcerias e meios para reduzir desigualdades econ\u00f4micas e sociais",
+        "environmental": true,
+        "title_length": 73,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "ODS 6: acesso e gest\u00e3o para garantir a sustentabilidade no uso da \u00e1gua",
+        "environmental": true,
+        "title_length": 70,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "Clima ajuda, e soja deve ter safra recorde em 2018 com 115,6 milh\u00f5es de toneladas",
+        "environmental": true,
+        "title_length": 81,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "Biodiversidade brasileira",
+        "environmental": true,
+        "title_length": 25,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "[V\u00eddeo] Clima favoreceu safra de gr\u00e3os",
+        "environmental": true,
+        "title_length": 38,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "Abertas as inscri\u00e7\u00f5es para a INFOPLAN - 3\u00aa Confer\u00eancia Nacional de Estat\u00edstica, Geografia e Meio Ambiente",
+        "environmental": true,
+        "title_length": 105,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "IBGE realiza, em Bras\u00edlia, evento preparat\u00f3rio para 3\u00aa Confer\u00eancia Nacional de Estat\u00edstica, Geografia e Meio Ambiente",
+        "environmental": true,
+        "title_length": 117,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "Em uma d\u00e9cada, o percentual de munic\u00edpios com Fundo de Meio Ambiente passa de 1,5% para 37,2%",
+        "environmental": true,
+        "title_length": 93,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "Novo Manual da Vegeta\u00e7\u00e3o Brasileira: informa\u00e7\u00f5es essenciais para estudo e prote\u00e7\u00e3o da biodiversidade",
+        "environmental": true,
+        "title_length": 100,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "IDS 2010: pa\u00eds evolui em indicadores de sustentabilidade, mas ainda h\u00e1 desigualdades socioecon\u00f4micas e impactos ao meio ambiente",
+        "environmental": true,
+        "title_length": 128,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "SIS 2009: em dez anos, cai de 32,4% para 22,6% o percentual de fam\u00edlias vivendo com at\u00e9 meio sal\u00e1rio m\u00ednimo per capita",
+        "environmental": true,
+        "title_length": 118,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "IBGE e Minist\u00e9rio do Meio Ambiente lan\u00e7am mapas tem\u00e1ticos da Amaz\u00f4nia",
+        "environmental": true,
+        "title_length": 69,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "IBGE investiga o meio ambiente de 5.560 munic\u00edpios brasileiros",
+        "environmental": true,
+        "title_length": 62,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "Vocabul\u00e1rio B\u00e1sico de Recursos Naturais e Meio Ambiente",
+        "environmental": true,
+        "title_length": 55,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    },
+    {
+        "title": "IBGE lan\u00e7a o Mapa de Biomas do Brasil e o Mapa de Vegeta\u00e7\u00e3o do Brasil, em comemora\u00e7\u00e3o ao Dia Mundial da Biodiversidade",
+        "environmental": true,
+        "title_length": 118,
+        "sentiment": 0.0,
+        "sentiment_category": "neutral"
+    }
+]
